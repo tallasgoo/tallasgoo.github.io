@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Tallas Goo",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://tallasgoo.github.io/images/profile.jpg",
+    "email": "tallas@hawaii.edu",
+    "phone": "",
+    "website": "https://tallasgoo.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
@@ -17,12 +17,12 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "tallasgoo",
+        "url": "http://github.com/tallasgoo"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "tallasgoo",
         "url": "http://linkedin.com/in/changeme"
       },
       {
