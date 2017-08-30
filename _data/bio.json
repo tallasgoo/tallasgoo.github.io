@@ -6,7 +6,7 @@
     "email": "tallas@hawaii.edu",
     "phone": "",
     "website": "https://tallasgoo.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Science with a focus in Cybersecurity at the University of Hawaii, and I expect to graduate in Spring 2020. I hope to serve as a Cyberspace Operations Officer in the United States Air Force.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -23,9 +23,9 @@
       {
         "network": "linkedin",
         "username": "tallasgoo",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/tallas-goo"
       },
-      {
+      /*{
         "network": "twitter",
         "username": "mollymal",
         "url": "http://twitter.com/changeme"
@@ -34,24 +34,22 @@
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/changeme"
-      }
+      }*/
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Cybersecurity",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Digital Forensics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Augmented Reality",
       "keywords": [
       ]
     }
@@ -65,28 +63,22 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows OS",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
