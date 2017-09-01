@@ -11,10 +11,7 @@ labels:
 summary: A terminal window program that displays temperature conversions between Fahrenheit and Celsius.
 ---
 
-<div class="ui rounded images">
-  <img class="ui image" src="../images/temp-table-prompt.png">
-  <img class="ui image" src="../images/temp-table-input.png">
-</div>
+<img class="ui medium right floated rounded image" src="../images/temp-table-input.png">
 
 This Unix terminal program prompts the user to enter a temperature in Fahrenheit and then creates a table showing conversions between Fahrenheit and Celsuis up to the given input temperature.
 
