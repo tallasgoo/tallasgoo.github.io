@@ -18,8 +18,8 @@ summary: A terminal window program that creates and stores generic account recor
   <img class="ui image" src="../images/database-records.png">
 </div>
 
-This Unix terminal program prompts the user to enter a temperature in Fahrenheit and then creates a table showing conversions between Fahrenheit and Celsuis up to the given input temperature.
+This probram allows the user to create, edit, view, and delete account records from a database using a terminal menu-interface. On exit all entered records are stored in a savefile to preserve the database for later use. Account records contain account numbers, names, and addresses.
 
-The user input interface, temperature conversion and table-printing functions were all written in C++ through Unix Command Line.
+A considerably amount of .
  
 Source code available on GitHub: <a href="https://github.com/tallasgoo/fctable"><i class="large github icon"></i>tallasgoo/fctable</a>
