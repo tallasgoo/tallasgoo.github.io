@@ -20,4 +20,4 @@ This Unix terminal program prompts the user to enter a temperature in Fahrenheit
 
 The user input interface, temperature conversion and table-printing functions where all written in C++ through Unix Command Line.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source code available on GitHub: <a href="https://github.com/tallasgoo/fctable"><i class="large github icon"></i>theVacay/vacay</a>
