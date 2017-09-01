@@ -6,10 +6,10 @@
     "email": "tallas@hawaii.edu",
     "phone": "",
     "website": "https://tallasgoo.github.io",
-    "summary": "I am studying for a B.S. in Computer Science with a focus in Cybersecurity at the University of Hawaii, and I expect to graduate in Spring 2020. I hope to serve as a Cyberspace Operations Officer in the United States Air Force.",
+    "summary": "I am studying for a B.S. in Computer Science with a focus in Cybersecurity at the University of Hawaii at Manoa, and I expect to graduate in Spring 2020. I hope to serve as a Cyberspace Operations Officer in the United States Air Force.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -77,27 +77,23 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "",
+      "position": "",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
