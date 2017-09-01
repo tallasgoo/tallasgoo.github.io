@@ -11,7 +11,7 @@ labels:
 summary: A terminal window program that displays temperature conversions between Fahrenheit and Celsius.
 ---
 
-<div class="ui small rounded images">
+<div class="ui rounded images">
   <img class="ui image" src="../images/temp-table-prompt.png">
   <img class="ui image" src="../images/temp-table-input.png">
 </div>
@@ -20,4 +20,4 @@ This Unix terminal program prompts the user to enter a temperature in Fahrenheit
 
 The user input interface, temperature conversion and table-printing functions where all written in C++ through Unix Command Line.
  
-Source code available on GitHub: <a href="https://github.com/tallasgoo/fctable"><i class="large github icon"></i>theVacay/vacay</a>
+Source code available on GitHub: <a href="https://github.com/tallasgoo/fctable"><i class="large github icon"></i>tallasgoo/fctable</a>
