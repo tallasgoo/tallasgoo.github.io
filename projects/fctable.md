@@ -16,6 +16,6 @@ summary: A terminal window program that displays temperature conversions between
 
 This Unix terminal program prompts the user to enter a temperature in Fahrenheit and then creates a table showing conversions between Fahrenheit and Celsuis up to the given input temperature.
 
-The user input interface, temperature conversion and table-printing functions were all written in C++ using a Unix text editor.
+The user-input interface, temperature conversion and table-printing functions were all written in C++ using a Unix text editor.
  
 Source code available on GitHub: <a href="https://github.com/tallasgoo/fctable"><i class="large github icon"></i>tallasgoo/fctable</a>
