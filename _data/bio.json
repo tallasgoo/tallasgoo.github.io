@@ -66,7 +66,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science (expected graduation Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2016-08-01",
       "endDate": "Present",
@@ -75,67 +75,46 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    }
-  ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Cru MK2MK Summer Missions: South Africa",
+      "website": "https://mk2mk.org/",
+      "position": "Student Participant",
+      "startDate": "2015-05-29",
+      "endDate": "2015-08-5",
+      "summary": "Joined 50 other missionary kids in serving local communities in Port Shepstone, South Africa",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Performed maintenance on several community centers",
+        "Distributed meals to local families",
+        "Taught English classes",
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Boy Scouts of America",
+      "website": "http://www.scouting.org/",
+      "position": "Junior Assistant Scoutmaster, Senior Patrol Leader",
+      "startDate": "2008-01-1",
+      "endDate": "2015-12-31",
+      "summary": "Developed leadership and mentored young boys while also performing community service projects",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Troop 07, Singapore",
+        "Troop 8848, Beijing, China",
+        "Troop 36, Honolulu, HI"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Valedictorian",
+      "date": "2016",
+      "awarder": "Kalani High School",
+      "summary": "Awarded to seniors graduating with a 4.0 GPA."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Eagle Scout, Double Gold Palms",
+      "date": "2011-2015",
+      "awarder": "Boy Scouts of America",
+      "summary": "Completed all requirements for Eagle Scout with 25 additional merit badges."
     }
   ],
   "references": [
