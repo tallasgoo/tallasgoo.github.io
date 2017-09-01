@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/pikachu.jpg
 title: Pikachu Sprint
-permalink: projects/micromouse
+permalink: projects/pikachu-sprint
 date: 2016
 labels:
   - Java
@@ -12,10 +12,10 @@ summary: An arcade game I created in my very first Java class.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/pikachu-sprint-start.jpg">
+  <img class="ui image" src="../images/pikachu-sprint-run.jpg">
+  <img class="ui image" src="../images/pikachu-sprint-jump.jpg">
+  <img class="ui image" src="../images/pikachu-sprint-end.png">
 </div>
 
 In Pikachu Sprint you control Pikachu and try to run for maximum distance while jumping over obstacles that come your way. A live score counter is displayed in the top-right corner. If the player crashes into an obstacle, the game stops and the final score is displayed along with options to play again or exit the game.
