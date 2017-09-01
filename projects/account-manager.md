@@ -18,8 +18,8 @@ summary: A terminal window program that creates and stores generic account recor
   <img class="ui image" src="../images/database-records.png">
 </div>
 
-This probram allows the user to create, edit, view, and delete account records from a database using a terminal menu-interface. On exit all entered records are stored in a savefile to preserve the database for later use. Account records contain account numbers, names, and addresses.
+This program allows the user to create, edit, view, and delete account records from a database using a terminal menu-interface. On exit all entered records are stored in a savefile to preserve the database for later use. Account records contain account numbers, names, and addresses.
 
-A considerably amount of .
+The entire program was written in C using a Unix text editor.
  
-Source code available on GitHub: <a href="https://github.com/tallasgoo/fctable"><i class="large github icon"></i>tallasgoo/fctable</a>
+Source code available on GitHub: <a href="https://github.com/tallasgoo/account-manager"><i class="large github icon"></i>tallasgoo/account-manager</a>
