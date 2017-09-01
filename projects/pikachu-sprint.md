@@ -7,7 +7,7 @@ permalink: projects/pikachu-sprint
 date: 2016
 labels:
   - Java
-  - Game
+  - GitHub
 summary: An arcade game I created in my very first Java class.
 ---
 
