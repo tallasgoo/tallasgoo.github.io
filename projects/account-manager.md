@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: false
 image: images/database.jpg
 title: Account Manager
 permalink: projects/account-manager
