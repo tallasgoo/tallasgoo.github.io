@@ -1,8 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
-title: JavaScript vs. Java: The Sequel
+title: JavaScript vs. Java - The Sequel
 date: 2017-09-01
 labels:
   - JavaScript
