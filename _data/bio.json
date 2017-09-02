@@ -39,6 +39,11 @@
       ]
     },
     {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Augmented Reality",
       "keywords": [
       ]
@@ -53,6 +58,8 @@
         "C++",
         "Java",
         "Javascript",
+        "CAD",
+        "RCX",
       ]
     },
     {
@@ -60,6 +67,10 @@
       "level": "",
       "keywords": [
         "Windows OS",
+        "Ubuntu",
+        "Unix",
+        "Eclipse",
+        "NXT-G",
       ]
     }
   ],
@@ -78,7 +89,7 @@
   "volunteer": [
     {
       "organization": "Cru MK2MK Summer Missions - South Africa",
-      "website": "https://mk2mk.org/",
+      "website": "https://www.mk2mk.org/",
       "position": "Student Participant",
       "startDate": "2015-05-29",
       "endDate": "2015-08-5",
@@ -95,7 +106,7 @@
       "position": "Junior Assistant Scoutmaster, Senior Patrol Leader",
       "startDate": "2008-01-1",
       "endDate": "2015-12-31",
-      "summary": "Developed leadership and mentored young boys while also performing community service projects",
+      "summary": "Developed leadership and outdoor skills while also performing community service projects",
       "highlights": [
         "Troop 07, Singapore",
         "Troop 8848, Beijing, China",
@@ -104,6 +115,18 @@
     }
   ],
   "awards": [
+    {
+      "title": "AFROTC Type 2 Scholarship",
+      "date": "2017-Present",
+      "awarder": "Air Force Reserve Officers Training Corps",
+      "summary": "Cadets are awarded this scholarship depending on factors such as physical fitness, GPA, leadership potential, and choice of major."
+    },
+    {
+      "title": "Chancellor's Scholarship",
+      "date": "2016-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to 80 incoming freshmen with cumulative GPAs of 3.5 or higher."
+    },
     {
       "title": "Valedictorian",
       "date": "2016",
@@ -114,12 +137,12 @@
       "title": "Eagle Scout, Double Gold Palms",
       "date": "2011-2015",
       "awarder": "Boy Scouts of America",
-      "summary": "Completed all requirements for Eagle Scout with 25 additional merit badges."
+      "summary": "Completed all requirements for Eagle Scout along with 25 additional merit badges."
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "Available upon request.",
       "reference": ""
     }
   ]
