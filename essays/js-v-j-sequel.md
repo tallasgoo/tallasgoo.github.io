@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Code Wars Episode VI: Return of the JavaScript
+title: JavaScript vs. Java: The Sequel
 date: 2017-09-01
 labels:
   - JavaScript
