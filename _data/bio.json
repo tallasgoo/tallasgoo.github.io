@@ -103,7 +103,7 @@
     {
       "organization": "Boy Scouts of America",
       "website": "http://www.scouting.org/",
-      "position": "Junior Assistant Scoutmaster, Senior Patrol Leader",
+      "position": "Junior Assistant Scoutmaster",
       "startDate": "2008-01-1",
       "endDate": "2015-12-31",
       "summary": "Developed leadership and outdoor skills while also performing community service projects",
@@ -112,7 +112,17 @@
         "Troop 8848, Beijing, China",
         "Troop 36, Honolulu, HI"
       ]
-    }
+    },
+    {
+      "organization": "Beijing Model United Nations (BEIMUN)",
+      "website": "http://www.beimun.org/",
+      "position": "Delegate of Romania",
+      "startDate": "2012-10-10",
+      "endDate": "2015-03-15",
+      "summary": "Extensively researched the country of Romania and drafted an official resolution on nuclear disarmament from the perspective of Romania",
+      "highlights": [
+      ]
+    },
   ],
   "awards": [
     {
