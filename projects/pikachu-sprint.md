@@ -7,8 +7,9 @@ permalink: projects/pikachu-sprint
 date: 2016
 labels:
   - Java
+  - Eclipse
   - GitHub
-summary: An arcade game I created in my very first Java class.
+summary: An arcade game created in Java using the Eclipse IDE.
 ---
 
 <div class="ui small rounded images">
