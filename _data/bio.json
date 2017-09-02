@@ -58,8 +58,8 @@
         "C++",
         "Java",
         "Javascript",
-        "CAD",
-        "RCX",
+        "RCX Code",
+        "Computer-Aided Design (CAD)",
       ]
     },
     {
@@ -69,8 +69,8 @@
         "Windows OS",
         "Ubuntu",
         "Unix",
-        "Eclipse",
-        "NXT-G",
+        "Eclipse IDE",
+        "NXT-G Programming Environment",
       ]
     }
   ],
