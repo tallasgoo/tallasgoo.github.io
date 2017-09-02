@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: false
 image: images/fc.jpg
 title: Fahrenheit-Celsius Table
 permalink: projects/fctable
