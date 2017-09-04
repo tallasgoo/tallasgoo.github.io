@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: JavaScript vs. Java - The Sequel
+title: JavaScript vs. Java - The Rematch
 date: 2017-09-01
 labels:
   - JavaScript
@@ -22,4 +22,6 @@ JavaScript was my first programming language and as such I had nothing to compar
 
 Years later I would eventually learn Java and C and a dabble of C++ and not really think much of it. And then one day by a twist of fate, I returned to JavaScript. BOOM! JavaScript was back in the game, and this time with an opponent to match up against. The comparisons came pretty quick: “Hey! I can just create a variable without specifying a specific datatype. Nice, functions are so easy to whip up now. Whoohoo! I can use an array to store anything I want!” On and on it would go, with JavaScript continually giving me that smug, “Told you so. Should have finished that tutorial course kid.”
 
-Indeed. I am nowhere near to being a master sensei of the Script of Java. But after what I’ve been able to observe with the various conveniences and amenities that JavaScript can offer over other languages, I am compelled to continue the ultimate contest to find the one language to rule them all. May the odds be ever in JavaScript’s favor. That is, until another new revolutionary hotshot language arrives on the block. ‘Tis life.
+Indeed. I am nowhere near to being a master sensei of the Script of Java. But after what I’ve been able to observe with the various conveniences and amenities that JavaScript can offer over other languages, I am compelled to continue the ultimate contest to find the one language to rule them all. May the odds be ever in JavaScript’s favor.
+
+...Until a revolutionary new hotshot language arrives on the block and blows away the competition. C'est la vie.
