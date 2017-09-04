@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: false
+published: true
 image: images/hawaiian-islands.jpg
 title: Aftermath of the Hawaiian Exit Referendum
 permalink: projects/account-manager
