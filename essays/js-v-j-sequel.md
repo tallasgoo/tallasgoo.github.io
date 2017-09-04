@@ -7,7 +7,6 @@ labels:
   - JavaScript
   - Java
   - C
-  - C++
 ---
 
 JavaScript became the first programming language I ever learned somewhat by accident. When I was taking my first step into the world of coding I had decided to as best as possible start with a “root” language (as in a root of a tree) and work my way up. My simplistic assumption back then was that “root” languages would have shorter names that “branching” languages would add to. This meant that C was the root language for C++ and C# (quite true) and Java was the root language for JavaScript (quite untrue).
@@ -24,4 +23,4 @@ Years later I would eventually learn Java and C and a dabble of C++ and not real
 
 Indeed. I am nowhere near to being a master sensei of the Script of Java. But after what I’ve been able to observe with the various conveniences and amenities that JavaScript can offer over other languages, I am compelled to continue the ultimate contest to find the one language to rule them all. May the odds be ever in JavaScript’s favor.
 
-...Until a revolutionary new hotshot language arrives on the block and blows away the competition. C'est la vie.
+. . . Until a revolutionary new hotshot language arrives on the block and blows away the competition. C'est la vie.
