@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/hawaiian-islands.jpg
 title: Aftermath of the Hawaiian Exit Referendum
-permalink: projects/account-manager
+permalink: projects/after-hi-exit
 date: 2017
 labels:
   - Hawaii
