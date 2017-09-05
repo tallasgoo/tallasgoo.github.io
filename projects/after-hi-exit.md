@@ -12,7 +12,9 @@ labels:
 summary: A research paper on the procedure of creating a new nation, taken from the perspective of a fictional newly-independent Hawaii.
 ---
 
-I wrote this research paper as my final for my Honors Hawaiian Studies class. Rather than dealing with all the emotions behind the legitamacy of the Hawaiian annexation or the argument for Hawaiian independence, I instead decided to research what it would actually take to create a new country in today's times. You would need a government, a capital, a flag, develop an economy and an accepted currency, form trade and military alliances, and so on and so forth.
+<img class="ui medium left floated image" src="../images/hawaii-world.png">
+
+I wrote this research paper as my final for my Honors Hawaiian Studies class. Rather than deal with all the emotions behind the legitamacy of the Hawaiian annexation or the argument for Hawaiian independence, I instead decided to research what it would actually take to create a new country in today's times. You would need a government, a capital, a flag, develop an economy and an accepted currency, form trade and military alliances, and so on and so forth.
 
 In a scenario where Hawaii were to gain indpendence there are certain logical steps that would need to be carried out in order to establish itself. These include choosing a form of government and determining who counts as a Hawaiian citizen, developing a more robust economy that is not dependent on tourism or U.S. defense contracts, and most importantly — gaining recognition as a country from the United Nations and the United States.
 
