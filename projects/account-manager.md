@@ -13,7 +13,7 @@ labels:
 summary: A terminal window program that creates and stores generic account records.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/database-menu.png">
   <img class="ui image" src="../images/database-new.png">
   <img class="ui image" src="../images/database-records.png">
