@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: true
 title: JavaScript vs. Java - The Rematch
 date: 2017-09-01
 labels:
