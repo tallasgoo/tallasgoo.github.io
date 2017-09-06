@@ -9,7 +9,7 @@ labels:
   - C
 ---
 
-<img class="ui large left floated image" src="../images/java-is-to-javascript.png">
+<img class="ui large image" src="../images/java-is-to-javascript.png">
 
 JavaScript became the first programming language I ever learned somewhat by accident. When I was taking my first step into the world of coding I had decided to as best as possible start with a “root” language (as in a root of a tree) and work my way up. My simplistic assumption back then was that “root” languages would have shorter names that “branching” languages would add to. This meant that C was the root language for C++ and C# (quite true) and Java was the root language for JavaScript (quite untrue).
 
