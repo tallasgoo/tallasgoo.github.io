@@ -12,7 +12,7 @@ labels:
 summary: An simple run-and-jump arcade game created in Java using the Eclipse IDE.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/pikachu-sprint-start.jpg">
   <img class="ui image" src="../images/pikachu-sprint-run.jpg">
   <img class="ui image" src="../images/pikachu-sprint-jump.jpg">
