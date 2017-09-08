@@ -12,11 +12,11 @@ labels:
 
 One of the aspects I personally love about the hacker community is that more often than not, when you interact on forums you are addressing peers — fellow hackers who communicate in a fairly “normal” everyday vernacular. As an amusing side thought, can you imagine if it were otherwise? Consider this (hopefully fictional) post regarding a videogame:
 
-“To the distinguished pundits of this esteemed academic caucus known as Reddit (henceforth referred to as “the forum”), I hereby present for your sensible deliberation the following predicament encountered whilst partaking in the escapades of the preeminent videogame Star Wars Battlefront II (henceforth referred to as “the game”)…”
+“To the distinguished pundits of this esteemed academic caucus known as Reddit (henceforth referred to as “the forum”), I hereby present for your sensible deliberation the following predicament encountered whilst partaking in the escapades of the preeminent videogame Star Wars Battlefront II (henceforth referred to as “the game”). . .”
 
 Now take the above and compare it to the intended question presented in English:
 
-“After installing the AMD Radeon R9 360 graphics card, I began encountering random green and red textures when I tried playing Star Wars Battlefront II…”
+“After installing the AMD Radeon R9 360 graphics card, I began encountering random green and red textures when I tried playing Star Wars Battlefront II. . .”
 
 Easily three times as much information in half as many words. That’s how hackers roll.
 
