@@ -25,3 +25,7 @@ While it may be true that hackers do not use a highly formal style of communicat
 Except native JavaScript doesn’t have a .size() method.
 
 So while I did quickly learn the answer to my own question, I did so with a slight grimace on my face as I read several responses all essentially saying (sometimes in bolded text) the cold-hard truth. For the record, a couple respondents did point out that the .size() method can be found in libraries including jQuery, but ultimately the original question poster received the same answer in several different flavors.
+
+Why do I bring this up? Hackers may not live in formality, but they do live in a reality where good questions are encouraged and bad ones are, well, treated with varying degrees of prosecution. Joking aside, the above original question poster likely did not do his background research into JavaScript’s array methods before he presented his question to the hacker community. And on a more nitpicky note, the original poster asked five different questions pretty much all in a row — making it more difficult for potential respondents to give a comprehensive answer.
+
+It’s not all bad though. Unresearched question or not, his forum post can still help other rising JavaScript developers like myself quickly learn one of the realities of JavaScript arrays, and maybe also the importance of doing your homework first before asking for help.
