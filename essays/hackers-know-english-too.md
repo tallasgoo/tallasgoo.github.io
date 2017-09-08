@@ -35,3 +35,11 @@ It’s not all bad though. Unresearched question or not, his forum post can stil
 And now for the sake of balancing the scales, how about a quick example of a better presented question?
 
 Before presenting their question to the Stack Oveflow community, <a href="https://stackoverflow.com/questions/589175/how-to-refactor-rapidly-evolving-code">this</a> poster first gave a quick background to the problem they were facing, which in this case was how to refactor some messy code that was at the same time evolving. The question poster described the problem succinctly and in an easy-to-follow progression of thought, even at a point rephrasing the question to increase clarity. The final question (singular, not plural) asked was somewhat general — asking for best practices in dealing with the aforementioned situation — but the presentation and context of the question were clear enough to warrant several helpful suggestions from respondents. (At least I think they were helpful. The topic was a bit out of my range if I’m being honest.)
+
+Now what does it all mean? That hackers are ruthless scrutinizers, searching for only the best questions to give a respectable answer to? To find the unworthy and engrave their names in the plaque of shame for all eternity?
+
+Yes. Welcome to the New World Order of Hacker Society.
+
+No, no, nothing of that sort. Hackers for the most part are decent people who will give a decent answer to decent questions. Nothing too overly fancy is required, but questions posed to the hacker community are expected to be oriented for the good of the community and for the sake of knowledge. This will mean that some additional thought and research should go into questions before they are presented, but give it the effort and time and hopefully, respondents will do likewise.
+
+Communication is important. Questions are important. And with the ever-increasing collaborative nature of hacker society, speaking in the same “language” and with the same “conventions” will continue to be important a long, long time from now.
