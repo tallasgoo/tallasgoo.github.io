@@ -20,7 +20,7 @@ Now take the above and compare it to the intended question presented in English:
 
 Easily three times as much information in half as many words. That’s how hackers roll.
 
-While it may be true that hackers do not use a highly formal style of communication, this certainly does not mean that any odd statement or question is acceptable to present in (largely online) discussions. For example: I was entering the world of JavaScript from a C/C++ background and needed to find the size (or, length?) of an array. I googled “javascript array size or length” and found this Stack Overflow discussion thread. My first thought was, “Ah perfect, someone has already asked the question for me.” After a couple seconds of reading, my next thought was, “Oh. Well, thanks for volunteering as tribute.” The question posed was the difference between Array.size() versus Array.length in JavaScript.
+While it may be true that hackers do not use a highly formal style of communication, this certainly does not mean that any odd statement or question is acceptable to present in (largely online) discussions. For example: I was entering the world of JavaScript from a C/C++ background and needed to find the size (or, length?) of an array. I googled “javascript array size or length” and found <a href="https://stackoverflow.com/questions/14202601/array-size-vs-array-length">this</a> Stack Overflow discussion thread. My first thought was, “Ah perfect, someone has already asked the question for me.” After a couple seconds of reading, my next thought was, “Oh. Well, thanks for volunteering as tribute.” The question posed was the difference between Array.size() versus Array.length in JavaScript.
 
 Except native JavaScript doesn’t have a .size() method.
 
