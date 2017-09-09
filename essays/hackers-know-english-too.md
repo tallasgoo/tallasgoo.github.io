@@ -10,6 +10,8 @@ labels:
   - Forums
 ---
 
+<img class="ui fluid image" src="../images/people.jpg">
+
 One of the aspects I personally love about the hacker community is that more often than not, when you interact on forums you are addressing peers — fellow hackers who communicate in a fairly “normal” everyday vernacular. As an amusing side thought, can you imagine if it were otherwise? Consider this (hopefully fictional) post regarding a videogame:
 
 > “To the distinguished pundits of this esteemed academic caucus known as Reddit (henceforth referred to as “the forum”), I hereby present for your sensible deliberation the following predicament encountered whilst partaking in the escapades of the preeminent videogame Star Wars Battlefront II (henceforth referred to as “the game”). . .”
