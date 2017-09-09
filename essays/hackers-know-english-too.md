@@ -12,15 +12,15 @@ labels:
 
 One of the aspects I personally love about the hacker community is that more often than not, when you interact on forums you are addressing peers — fellow hackers who communicate in a fairly “normal” everyday vernacular. As an amusing side thought, can you imagine if it were otherwise? Consider this (hopefully fictional) post regarding a videogame:
 
-“To the distinguished pundits of this esteemed academic caucus known as Reddit (henceforth referred to as “the forum”), I hereby present for your sensible deliberation the following predicament encountered whilst partaking in the escapades of the preeminent videogame Star Wars Battlefront II (henceforth referred to as “the game”). . .”
+> “To the distinguished pundits of this esteemed academic caucus known as Reddit (henceforth referred to as “the forum”), I hereby present for your sensible deliberation the following predicament encountered whilst partaking in the escapades of the preeminent videogame Star Wars Battlefront II (henceforth referred to as “the game”). . .”
 
 Now take the above and compare it to the intended question presented in English:
 
-“After installing the AMD Radeon R9 360 graphics card, I began encountering random green and red textures when I tried playing Star Wars Battlefront II. . .”
+> “After installing the AMD Radeon R9 360 graphics card, I began encountering random green and red textures when I tried playing Star Wars Battlefront II. . .”
 
 Easily three times as much information in half as many words. That’s how hackers roll.
 
-While it may be true that hackers do not use a highly formal style of communication, this certainly does not mean that any odd statement or question is acceptable to present in (largely online) discussions. For example: I was entering the world of JavaScript from a C/C++ background and needed to find the size (or, length?) of an array. I googled “javascript array size or length” and found <a href="https://stackoverflow.com/questions/14202601/array-size-vs-array-length">this</a> Stack Overflow discussion thread. My first thought was, “Ah perfect, someone has already asked the question for me.” After a couple seconds of reading, my next thought was, “Oh. Well, thanks for volunteering as tribute.” The question posed was the difference between Array.size() versus Array.length in JavaScript.
+While it may be true that hackers do not use a highly formal style of communication, this certainly does not mean that any odd statement or question is acceptable to present in (largely online) discussions. For example: I was entering the world of JavaScript from a C/C++ background and needed to find the size (or, length?) of an array. I googled “javascript array size or length” and found [this](https://stackoverflow.com/questions/14202601/array-size-vs-array-length) Stack Overflow discussion thread. My first thought was, “Ah perfect, someone has already asked the question for me.” After a couple seconds of reading, my next thought was, “Oh. Well, thanks for volunteering as tribute.” The question posed was the difference between Array.size() versus Array.length in JavaScript.
 
 Except native JavaScript doesn’t have a .size() method.
 
@@ -34,7 +34,7 @@ It’s not all bad though. Unresearched question or not, his forum post can stil
 
 And now for the sake of balancing the scales, how about a quick example of a better presented question?
 
-Before presenting their question to the Stack Oveflow community, <a href="https://stackoverflow.com/questions/589175/how-to-refactor-rapidly-evolving-code">this</a> poster first gave a quick background to the problem they were facing, which in this case was how to refactor some messy code that was at the same time evolving. The question poster described the problem succinctly and in an easy-to-follow progression of thought, even at a point rephrasing the question to increase clarity. The final question (singular, not plural) asked was somewhat general — asking for best practices in dealing with the aforementioned situation — but the presentation and context of the question were clear enough to warrant several helpful suggestions from respondents. (At least I think they were helpful. The topic was a bit out of my range if I’m being honest.)
+Before presenting their question to the Stack Oveflow community, [this](https://stackoverflow.com/questions/589175/how-to-refactor-rapidly-evolving-code) poster first gave a quick background to the problem they were facing, which in this case was how to refactor some messy code that was at the same time evolving. The question poster described the problem succinctly and in an easy-to-follow progression of thought, even at a point rephrasing the question to increase clarity. The final question (singular, not plural) asked was somewhat general — asking for best practices in dealing with the aforementioned situation — but the presentation and context of the question were clear enough to warrant several helpful suggestions from respondents. (At least I think they were helpful. The topic was a bit out of my range if I’m being honest.)
 
 Now what does it all mean? That hackers are ruthless scrutinizers, searching for only the best questions to give a respectable answer to? To find the unworthy and engrave their names in the plaque of shame for all eternity?
 
