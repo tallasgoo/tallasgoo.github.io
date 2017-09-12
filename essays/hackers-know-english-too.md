@@ -32,8 +32,6 @@ Why do I bring this up? Hackers may not live in formality, but they do live in a
 
 It’s not all bad though. Unresearched question or not, his forum post can still help other rising JavaScript developers like myself quickly learn one of the realities of JavaScript arrays, and maybe also the importance of doing your homework first before asking for help.
 
-It’s not all bad though. Unresearched question or not, his forum post can still help other rising JavaScript developers like myself quickly learn one of the realities of JavaScript arrays, and maybe also the importance of doing your homework first before asking for help.
-
 And now for the sake of balancing the scales, how about a quick example of a better presented question?
 
 Before presenting their question to the Stack Oveflow community, [this](https://stackoverflow.com/questions/589175/how-to-refactor-rapidly-evolving-code) poster first gave a quick background to the problem they were facing, which in this case was how to refactor some messy code that was at the same time evolving. The question poster described the problem succinctly and in an easy-to-follow progression of thought, even at a point rephrasing the question to increase clarity. The final question (singular, not plural) asked was somewhat general — asking for best practices in dealing with the aforementioned situation — but the presentation and context of the question were clear enough to warrant several helpful suggestions from respondents. (At least I think they were helpful. The topic was a bit out of my range if I’m being honest.)
