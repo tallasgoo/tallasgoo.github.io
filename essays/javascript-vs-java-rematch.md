@@ -7,7 +7,7 @@ date: 2017-09-01
 labels:
   - JavaScript
   - Java
-  - C
+  - Opinion
 ---
 
 <img class="ui fluid image" src="../images/java-vs-javascript.jpg">
