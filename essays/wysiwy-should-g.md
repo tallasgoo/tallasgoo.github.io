@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: WYSIWY Should G
+title: "WYSIWY Should G"
 date: 2017-10-05
 labels:
   - UI Frameworks
