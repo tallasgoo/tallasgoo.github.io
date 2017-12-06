@@ -42,4 +42,4 @@ Yes. Welcome to the New World Order of Hacker Society.
 
 No, no, nothing of that sort. Hackers for the most part are decent people who will give a decent answer to decent questions. Nothing too overly fancy is required, but questions posed to the hacker community are expected to be oriented for the good of the community and for the sake of knowledge. This will mean that some additional thought and research should go into questions before they are presented, but give it the effort and time and hopefully, respondents will do likewise.
 
-Communication is important. Questions are important. And with the ever-increasing collaborative nature of hacker society, speaking in the same “language” and with the same “conventions” will continue to be important a long, long time from now. :black_small_square:
+Communication is important. Questions are important. And with the ever-increasing collaborative nature of hacker society, speaking in the same “language” and with the same “conventions” will continue to be important a long, long time from now. <i class="square icon">
