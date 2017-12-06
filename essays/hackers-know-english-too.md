@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Hackers Know English Too
+title: "Hackers Know English Too"
 date: 2017-09-07
 labels:
   - Communication
