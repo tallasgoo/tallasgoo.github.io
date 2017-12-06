@@ -26,4 +26,4 @@ Years later I would eventually learn Java and C and a dabble of C++ and not real
 
 Indeed. I am nowhere near to being a master sensei of the Script of Java. But after what I’ve been able to observe with the various conveniences and amenities that JavaScript can offer over other languages, I am compelled to continue the ultimate contest to find the one language to rule them all. May the odds be ever in JavaScript’s favor.
 
-. . . Until a revolutionary new hotshot language arrives on the block and blows away the competition. C'est la vie.
+. . . Until a revolutionary new hotshot language arrives on the block and blows away the competition. C'est la vie. <i class="square icon"></i>
