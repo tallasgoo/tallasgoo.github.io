@@ -2,12 +2,11 @@
 layout: essay
 type: essay
 published: true
-title: JavaScript vs. Java - The Rematch
+title: "JavaScript vs. Java: The Rematch"
 date: 2017-09-01
 labels:
   - JavaScript
   - Java
-  - Opinion
 ---
 
 <img class="ui fluid image" src="../images/java-vs-javascript.jpg">
