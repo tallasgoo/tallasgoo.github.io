@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: "Meteor Gotchas"
+title: "Meteor Gripes"
 date: 2017-10-19
 labels:
   - Software Engineering
