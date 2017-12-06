@@ -17,4 +17,4 @@ Past students who have used Meteor say that this is normal. Good in fact. Just t
 
 In retrospect it seems appropriate how Meteor can enable you to create applications really fast, but first puts your patience to the test when you first begin. I imagine hackers in general are not particularly gifted when it comes to patience. Most just find something else to do while waiting, get engrossed in a side adventure, encounter another loading screen, and then notice that the task they were initially waiting for had already loaded a while back.
 
-Try as I might, that’s really the only thing I have against Meteor, and I’m told that they are working on shortening the load time — so it will likely not be a fundamental problem with the framework. But for now, I gripe. Because I can.
+Try as I might, that’s really the only thing I have against Meteor, and I’m told that they are working on shortening the load time — so it will likely not be a fundamental problem with the framework. But for now, I gripe. Because I can. <i class="square icon"></i>
