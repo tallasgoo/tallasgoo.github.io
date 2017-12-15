@@ -7,6 +7,14 @@
 
 // Customize the background color
 body {
+  background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   // background-color: #f2f2f2;;
 }
 
