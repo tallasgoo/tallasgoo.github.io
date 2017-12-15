@@ -1,23 +1,16 @@
-# Site settings
+# Basics
 
-# REQUIRED CHANGES
-# Edit next line, providing your own name.
 title: Tallas Goo | Professional Portfolio
-# Edit next line, replacing 'techfolios' with your github username
 url: "https://tallasgoo.github.io"
-# Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
 
-# OPTIONAL CHANGES
-# You might want to change the bio page label to something else, such as CV
+# Theme
 bio-page-label: Resume
-# You might want to change the theme associated with one or more sections of the site.
-# Defining your own custom theme variations is easy. See the documentation.
 theme-home: theme-home-builtin-3.html
-theme-projects: theme-projects-builtin-3.html
-theme-essays: theme-essays-builtin-3.html
-theme-bio: theme-bio-builtin-1.html
+theme-projects: theme-projects-builtin-1a.html
+theme-essays: theme-essays-builtin-1a.html
+theme-bio: theme-bio-builtin-2.html
 
-# YOU NORMALLY NEVER CHANGE THE FOLLOWING
+# Miscellaneous
 markdown: kramdown
 include: [_data]
