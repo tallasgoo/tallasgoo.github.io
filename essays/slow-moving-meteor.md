@@ -2,11 +2,11 @@
 layout: essay
 type: essay
 published: true
-title: "Meteor Gripes"
+title: "Slow Moving Meteor"
 date: 2017-10-19
 labels:
-  - Software Engineering
   - Meteor
+  - Software Engineering
 ---
 
 One of Meteor’s evident strengths is how quickly a developer can get an application prototype up and running, complete with background graphics, basic selection animations, and even login and account creation functionality. That being said, whenever I create a new Meteor project I am faced with that dastardly deterrent — that infamous inconvenience — every hacker’s greatest fear and annoyance: loading time.
