@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui fluid image" src="../images/meteor.jpg">
+<img class="ui medium image" src="../images/loading.gif">
 
 One of Meteor’s evident strengths is how quickly a developer can get an application prototype up and running, complete with background graphics, basic selection animations, and even login and account creation functionality. That being said, whenever I create a new Meteor project I am faced with that dastardly deterrent — that infamous inconvenience — every hacker’s greatest fear and annoyance: loading time.
 
@@ -19,4 +19,4 @@ Past students who have used Meteor say that this is normal. Good in fact. Just t
 
 In retrospect it seems appropriate how Meteor can enable you to create applications really fast, but first puts your patience to the test when you first begin. I imagine hackers in general are not particularly gifted when it comes to patience. Most just find something else to do while waiting, get engrossed in a side adventure, encounter another loading screen, and then notice that the task they were initially waiting for had already loaded a while back.
 
-Try as I might, that’s really the only thing I have against Meteor, and I’m told that they are working on shortening the load time — so it will likely not be a fundamental problem with the framework. Until then, I'll just keep waiting, waiting, waiting, waiting, and waiting. . . for something to happen. <i class="square icon"></i>
+Try as I might, that’s really the only thing I have against Meteor, and I’m told that they are working on shortening the load time — so it will likely not be a fundamental problem with the framework. Until then, I'll just keep waiting, waiting, waiting, waiting, and waiting . . . for something to happen. <i class="square icon"></i>
