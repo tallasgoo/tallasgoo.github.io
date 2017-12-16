@@ -19,7 +19,7 @@ Okay, cool. Now you know (or are reminded of) what wysiwyg is. So why do I bring
 
 UI frameworks! They are not intuitive or efficient in creating awesome websites, primarily because users are typing lines of code that by some mystical means result in images and text appearing on a screen. Like non-wysiwyg editors, this complicates the process of creating a final product that can be seen as users must first code it out and compile, whereas wysiwyg editors bypass this step and allow users to edit and immediately see the resulting end product.
 
-<div class="ui tiny images">
+<div class="ui images">
   <img src="../images/wix.jpg">
   <img src="../images/squarespace.jpg">
 </div>
