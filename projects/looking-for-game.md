@@ -8,7 +8,6 @@ permalink: projects/looking-for-game
 date: 2017
 labels:
   - Gaming
-  - Web App
   - Meteor
   - MongoDB
   - JavaScript
