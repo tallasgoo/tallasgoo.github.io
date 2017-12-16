@@ -7,7 +7,7 @@ date: 2017-10-05
 labels:
   - UI Frameworks
   - Web Design
-  - Really long acronyms
+  - Curiously long acronyms
 ---
 
 <img class="ui fluid image" src="../images/html-code.jpg">
