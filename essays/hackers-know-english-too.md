@@ -8,7 +8,7 @@ labels:
   - Communication
   - Questions
   - Forums
-  - How not to be that guy
+  - Don't be that one guy who...
 ---
 
 <img class="ui fluid image" src="../images/people.jpg">
