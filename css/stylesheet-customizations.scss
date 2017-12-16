@@ -23,3 +23,7 @@ body {}
 .ui.menu .item {
   color: white;
 }
+
+.ui.menu .active.item {
+  color: blue;
+}
