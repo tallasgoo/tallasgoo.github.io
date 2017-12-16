@@ -17,16 +17,16 @@ body {
   background-size: cover;
 }
 
-.ui.menu {
+.ui.top.fixed.stackable.secondary.pointing.menu {
   background-image: url("https://raw.githubusercontent.com/tallasgoo/tallasgoo.github.io/master/images/background.jpg");
 }
 
-.ui.menu .item {
+.ui.top.fixed.stackable.secondary.pointing.menu.item {
   color: white;
   font-weight: bold;
 }
 
-.ui.menu .active.item {
+.ui.top.fixed.stackable.secondary.pointing.menu.active.item {
   color: lightskyblue;
   font-weight: bold;
 }
