@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: "Don't Reinvent the Wheel: Why to Use Design Patterns"
+title: "Why Reinvent the Wheel? Use Design Patterns"
 date: 2017-12-05
 labels:
   - Design Patterns
