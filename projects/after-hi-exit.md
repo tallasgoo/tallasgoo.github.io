@@ -10,7 +10,7 @@ labels:
   - Hawaii
   - Nation Building
   - International Relations
-summary: A research paper on the procedure of creating a new nation, taken from the perspective of a fictional newly-independent Hawaii.
+summary: Research project on the procedure of creating a new nation in modern times, taken from the perspective of a fictional newly-independent Hawaii.
 ---
 
 <img class="ui fluid image" src="../images/hawaii-world.png">
