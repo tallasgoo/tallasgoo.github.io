@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: "Why Reinvent the Wheel? Use Design Patterns"
 date: 2017-12-05
 labels:
