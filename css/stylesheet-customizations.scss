@@ -2,8 +2,7 @@
 # Provide front matter so Jekyll processes this file as SASS.
 ---
 
-body {
-}
+body {}
 
 .ui.middle.aligned.grid {
   background-image: url("https://raw.githubusercontent.com/tallasgoo/tallasgoo.github.io/master/images/background.jpg");
@@ -17,8 +16,11 @@ body {
   margin-top: 75px;
 }
 
-.ui.menu .item {
+.ui.menu {
   background-image: url("https://raw.githubusercontent.com/tallasgoo/tallasgoo.github.io/master/images/background.jpg");
+}
+
+.ui.menu.item {
   color: white;
-  // font-weight: bold;
+  font-weight: bold;
 }
