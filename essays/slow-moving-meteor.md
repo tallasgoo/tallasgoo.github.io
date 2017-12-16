@@ -11,6 +11,8 @@ labels:
   - Sitting there staring at the screen and momentarily reconsidering your life choices
 ---
 
+*WARNING: Due to the potential health hazard, please be aware that the below loading screen is most likely infinite. For your own safety, please do now wait for something to happen.*
+
 <img class="ui fluid image" src="../images/loading.gif">
 
 One of Meteor’s evident strengths is how quickly a developer can get an application prototype up and running, complete with background graphics, basic selection animations, and even login and account creation functionality. That being said, whenever I create a new Meteor project I am faced with that dastardly deterrent — that infamous inconvenience — every hacker’s greatest fear and annoyance: loading time.
