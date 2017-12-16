@@ -4,7 +4,8 @@
 
 body {}
 
-.ui.fluid.image {
+.ui.middle.aligned.grid{
+  background-image: url("https://raw.githubusercontent.com/tallasgoo/tallasgoo.github.io/master/images/background.jpg");
   background-repeat: no-repeat;
   background-position:center;
   background-attachment: fixed;
@@ -12,6 +13,7 @@ body {}
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  margin-top: 0px !important;
 }
 
 .ui.menu {
