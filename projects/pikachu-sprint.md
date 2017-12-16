@@ -10,7 +10,7 @@ labels:
   - Animation
   - Java
   - Eclipse
-summary: An simple run-and-jump arcade game created in Java using the Eclipse IDE.
+summary: Run-and-jump animated arcade game created in Java using the Eclipse IDE.
 ---
 
 <img class="ui fluid rounded image" src="../images/pikachu-sprint-start.jpg">
