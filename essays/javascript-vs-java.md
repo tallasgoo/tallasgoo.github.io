@@ -7,6 +7,7 @@ date: 2017-09-01
 labels:
   - JavaScript
   - Java
+  - Reading descriptions and instructions thoroughly before jumping in
 ---
 
 <img class="ui fluid image" src="../images/java-vs-javascript.jpg">
