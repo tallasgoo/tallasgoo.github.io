@@ -6,7 +6,9 @@ title: "The Irony of the Slow Moving Meteor"
 date: 2017-10-19
 labels:
   - Meteor
-  - Software Engineering
+  - Time
+  - Patience
+  - Sitting there staring at the screen and momentarily reconsidering your life choices
 ---
 
 <img class="ui fluid image" src="../images/loading.gif">
