@@ -19,7 +19,7 @@ Okay, cool. Now you know (or are reminded of) what wysiwyg is. So why do I bring
 
 UI frameworks! They are not intuitive or efficient in creating awesome websites, primarily because users are typing lines of code that by some mystical means result in images and text appearing on a screen. Like non-wysiwyg editors, this complicates the process of creating a final product that can be seen as users must first code it out and compile, whereas wysiwyg editors bypass this step and allow users to edit and immediately see the resulting end product.
 
-<img class="ui small left floated image" src="../images/website-builders.jpg">
+<img class="ui medium left floated image" src="../images/website-builders.jpg">
 
 Website builders like Wix and Squarespace are the wysiwyg editors of website design, allowing for users to directly and quickly edit page content: This includes changing the font and size of text like you’d normally expect, place and resize images and other media content, and basically do all of the tasks you could probably accomplish on a UI framework — minus the code.
 
