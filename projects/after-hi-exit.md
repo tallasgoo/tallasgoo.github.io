@@ -8,7 +8,8 @@ permalink: projects/after-hi-exit
 date: 2017
 labels:
   - Hawaii
-  - Nation building
+  - Nation Building
+  - International Relations
 summary: A research paper on the procedure of creating a new nation, taken from the perspective of a fictional newly-independent Hawaii.
 ---
 
