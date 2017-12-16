@@ -2,15 +2,9 @@
 # Provide front matter so Jekyll processes this file as SASS.
 ---
 
-// Put your custom CSS here if you want to override the defaults.
-// Here are some common customizations for colors
-
-// Customize the background color
 body {
-  // background-color: #f2f2f2;
 }
 
-// Customize home page background
 .ui.middle.aligned.grid {
   background-image: url("https://raw.githubusercontent.com/tallasgoo/tallasgoo.github.io/master/images/background.jpg");
   background-repeat: no-repeat;
@@ -20,17 +14,11 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  margin-top: 500px;
+  margin-top: 100px;
 }
 
-// Customize the menubar color
 .ui.menu .item {
   background-image: url("https://raw.githubusercontent.com/tallasgoo/tallasgoo.github.io/master/images/background.jpg");
   color: white;
   // font-weight: bold;
-}
-
-// Customize the home page icon colors
-.icon-color {
-  // color: silver;
 }
