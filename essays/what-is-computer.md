@@ -12,9 +12,9 @@ When I previously attempted to answer the question of “What is a computer?” 
 
 Programs are what ultimately separates computers from machines. When given a certain input, a machine will *always* return the same output and *only* that output given that specific input. Computers, on the other hand, can take a certain input and return all kinds of different outputs depending on which program is loaded at the time. To illustrate, consider the difference between a hammer and a multi-bit screwdriver:
 
-<div class="ui medium centered images">
-  <img src="../images/hammer.png">
-  <img src="../images/screwdriver.png">
+<div class="ui medium images">
+  <img class="ui centered image" src="../images/hammer.png">
+  <img class="ui centered image" src="../images/screwdriver.png">
 </div>
 
 By design, a hammer essentially has one set purpose of applying blunt force to an object or surface, such as pounding nails into wood. Like a machine, a hammer takes an input (swinging motion) and returns an unchanging output (pounding force). A multi-bit screwdriver, on the other hand, can achieve different tasks depending on which screwdriver bit head is attached. Like a computer, a multi-bit screwdriver takes an input (twisting motion) and a program (bit head) and returns a different output depending on which program is loaded (compatibility with different screw types).
