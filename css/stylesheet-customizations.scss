@@ -14,10 +14,14 @@ body {
   background-size: cover;
 }
 
+.row {
+  margin-top: 20px;
+}
+
 .container {
   margin-top: 20px;
-  padding-left: 100px;
-  padding-right: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
   background: rgba(242,242,242, 0.9);
 }
 
