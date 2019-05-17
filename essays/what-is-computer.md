@@ -8,8 +8,6 @@ labels:
   - Computer science
 ---
 
-<img class="ui fluid image" src="../images/java-vs-javascript.jpg">
-
 When I previously attempted to answer the question of “What is a computer?” I struggled with trying to distinguish a computer from a machine. Both seemed to deal with inputs and outputs, but it appeared to me that a computer somehow did “more” with its input than a machine. The question gets more complicated when we consider that the human brain is like a computer, but somehow over time it can take the same exact input and produce different outputs. In the end, the answer to the question was that in order to define a computer, we actually require a third component besides the input and output: a program.
 
 Programs are what ultimately separates computers from machines. When given a certain input, a machine will *always* return the same output and *only* that output given that specific input. Computers, on the other hand, can take a certain input and return all kinds of different outputs depending on which program is loaded at the time. To illustrate, consider the difference between a hammer and a multi-bit screwdriver:
