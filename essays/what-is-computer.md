@@ -12,7 +12,7 @@ When I previously attempted to answer the question of “What is a computer?” 
 
 Programs are what ultimately separates computers from machines. When given a certain input, a machine will *always* return the same output and *only* that output given that specific input. Computers, on the other hand, can take a certain input and return all kinds of different outputs depending on which program is loaded at the time. To illustrate, consider the difference between a hammer and a multi-bit screwdriver:
 
-<div class="ui centered medium images">
+<div class="ui medium centered images">
   <img src="../images/hammer.png">
   <img src="../images/screwdriver.png">
 </div>
