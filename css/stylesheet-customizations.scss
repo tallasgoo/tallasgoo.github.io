@@ -18,15 +18,16 @@ body {
 }
 
 .ui.menu {
-  background-image: url("https://raw.githubusercontent.com/tallasgoo/tallasgoo.github.io/master/images/background.jpg");
+  # background-image: url("https://raw.githubusercontent.com/tallasgoo/tallasgoo.github.io/master/images/background.jpg");
+  color: black;
 }
 
 .ui.menu .item {
-  color: grey;
+  color: white;
   font-weight: bold;
 }
 
 .ui.menu .active.item {
-  color: black;
+  color: white;
   font-weight: bold;
 }
