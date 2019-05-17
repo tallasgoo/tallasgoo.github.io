@@ -12,6 +12,6 @@ labels:
   - JavaScript
   - HTML
   - CSS
-summary: Looking For Game (LFG) is a Meteor web application designed to help college students (particularly incoming freshmen) create new social connections via their shared interests in gaming...
+summary: Video gaming social network web app designed primarily for college students. Co-authored with Blake Wallick, Christopher Lee, and Victor Pawid.
 projecturl: https://looking-for-game.github.io/
 ---
