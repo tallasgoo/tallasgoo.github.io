@@ -14,7 +14,12 @@ body {
   background-size: cover;
 }
 
-.ui.middle.aligned.grid{
+.row {
+  background-color: lightgrey;
+  opacity: 0.6;
+}
+
+.ui.middle.aligned.grid {
   background-image: url("https://raw.githubusercontent.com/tallasgoo/tallasgoo.github.io/master/images/background.jpg");
   background-repeat: no-repeat;
   background-position: center;
