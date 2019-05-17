@@ -6,7 +6,7 @@
     "email": "tallas@hawaii.edu",
     "phone": "",
     "website": "https://tallasgoo.github.io",
-    "summary": "I am studying for a B.S. in Computer Science with a focus in Cybersecurity at the University of Hawaii at Manoa, and I expect to graduate in Spring 2020. I aim to serve as a Cyberspace Operations Officer in the United States Air Force.",
+    "summary": "I am studying for a B.S. in Computer Science with a focus in Cybersecurity at the University of Hawaii at Manoa, and I expect to graduate in Spring 2021. I aim to serve as a Cyberspace Operations Officer in the United States Air Force.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -42,11 +42,6 @@
       "name": "Artificial Intelligence",
       "keywords": [
       ]
-    },
-    {
-      "name": "Augmented Reality",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
@@ -60,7 +55,7 @@
         "JavaScript",
         "HTML",
         "CSS",
-        "RCX Code",
+        "SQL",
         "Computer-Aided Design (CAD)",
       ]
     },
@@ -69,21 +64,19 @@
       "level": "",
       "keywords": [
         "Windows OS",
-        "Ubuntu OS",
-        "Unix",
+        "Kali Linux",
         "IntelliJ",
         "Eclipse",
         "Meteor",
         "Google Suite",
-        "Microsoft Office",
-        "NXT-G Programming Environment",
+        "Microsoft Office"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2016-08-01",
       "endDate": "Present",
