@@ -6,7 +6,7 @@
     "email": "Email available upon request through LinkedIn",
     "phone": "",
     "website": "https://tallasgoo.github.io",
-    "summary": "I am studying for a B.S. in Computer Science with a focus in Cybersecurity at the University of Hawaii at Manoa, and I expect to graduate in Spring 2021. I aim to serve as a Cyber Warfare Officer in the United States Air Force.",
+    "summary": "I am studying for a B.S. in Computer Science with a focus in cybersecurity at the University of Hawaii at Manoa, and I expect to graduate in Spring 2021. I aim to serve as a Cyber Warfare Officer in the United States Air Force.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -59,14 +59,16 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets/OSes",
       "level": "",
       "keywords": [
-        "Kali Linux",
         "Metasploit",
         "Nmap",
+        "Wireshark",
         "Google Suite",
-        "Microsoft Office"
+        "Microsoft Office",
+        "Kali Linux",
+        "Windows"
       ]
     }
   ],
