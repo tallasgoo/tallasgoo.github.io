@@ -3,7 +3,7 @@
     "name": "Tallas Goo",
     "label": "Student",
     "picture": "https://tallasgoo.github.io/images/profile.jpg",
-    "email": "Email address available upon request through LinkedIn.",
+    "email": "Email available upon request through LinkedIn",
     "phone": "",
     "website": "https://tallasgoo.github.io",
     "summary": "I am studying for a B.S. in Computer Science with a focus in Cybersecurity at the University of Hawaii at Manoa, and I expect to graduate in Spring 2021. I aim to serve as a Cyber Warfare Officer in the United States Air Force.",
@@ -151,7 +151,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request.",
+      "name": "Available upon request",
       "reference": ""
     }
   ]
