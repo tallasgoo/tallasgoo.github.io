@@ -32,16 +32,16 @@ body {
   background-size: cover;
 }
 
-.ui.menu {
-  background-color: steelblue;
+.ui.secondary.poiting.menu {
+  background-color: midnightblue;
 }
 
-.ui.menu .item {
+.ui.secondary.pointing.menu .item {
   color: white;
   font-weight: bold;
 }
 
-.ui.menu .active.item {
-  color: white;
-  font-weight: bold;
-}
+//.ui.secondary.pointing.menu .active.item {
+//  color: white;
+//  font-weight: bold;
+//}
