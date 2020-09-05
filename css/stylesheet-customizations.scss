@@ -41,14 +41,19 @@ body {
   color: white;
 }
 
+.ui.secondary.pointing.menu .active.item:hover {
+  background-color: steelblue;
+  color: white;
+}
+
 .ui.secondary.pointing.menu .item {
   color: white;
-  //display: flex;
+  display: flex;
   font-weight: bold;
   height: 100%;
 }
 
-.ui.secondary.pointing.menu a.item:hover {
+.ui.secondary.pointing.menu .item:hover {
   background-color: steelblue;
   color: white;
 }
