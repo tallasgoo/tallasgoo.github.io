@@ -84,47 +84,10 @@
       ]
     }
   ],
-  /*"volunteer": [
-    {
-      "organization": "Cru MK2MK Summer Missions - South Africa",
-      "website": "https://www.mk2mk.org",
-      "position": "Student Participant",
-      "startDate": "2015-05-29",
-      "endDate": "2015-08-5",
-      "summary": "Joined 50 other missionary kids in serving local communities in Port Shepstone, South Africa",
-      "highlights": [
-        "Performed maintenance on several community centers",
-        "Distributed meals to local families",
-        "Taught English classes"
-      ]
-    },
-    {
-      "organization": "Boy Scouts of America",
-      "website": "http://www.scouting.org",
-      "position": "Junior Assistant Scoutmaster",
-      "startDate": "2008-01-1",
-      "endDate": "2015-12-31",
-      "summary": "Developed leadership and outdoor skills while also performing community service projects",
-      "highlights": [
-        "Troop 07, Singapore",
-        "Troop 8848, Beijing, China",
-        "Troop 36, Honolulu, HI"
-      ]
-    },
-    {
-      "organization": "Beijing Model United Nations (BEIMUN)",
-      "website": "http://www.beimun.org",
-      "position": "Delegate of Romania",
-      "startDate": "2012-10-10",
-      "endDate": "2015-03-15",
-      "summary": "Represented the country of Romania in the 20th annual session of the Beijing Model United Nations",
-      "highlights": [
-        "Debated real-life political issues in the General Assembly",
-        "Met students from high schools all over Asia",
-        "Drafted a resolution on nuclear disarmament from the perspective of Romania",
-      ]
-    },
-  ],*/
+  "volunteer": [
+
+  ],
+
   "awards": [
     {
       "title": "AFROTC Type 2 Scholarship",
