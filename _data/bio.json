@@ -84,7 +84,7 @@
       ]
     }
   ],
-  "volunteer": [
+  /*"volunteer": [
     {
       "organization": "Cru MK2MK Summer Missions - South Africa",
       "website": "https://www.mk2mk.org",
@@ -95,7 +95,7 @@
       "highlights": [
         "Performed maintenance on several community centers",
         "Distributed meals to local families",
-        "Taught English classes",
+        "Taught English classes"
       ]
     },
     {
@@ -124,7 +124,7 @@
         "Drafted a resolution on nuclear disarmament from the perspective of Romania",
       ]
     },
-  ],
+  ],*/
   "awards": [
     {
       "title": "AFROTC Type 2 Scholarship",
