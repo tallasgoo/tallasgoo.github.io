@@ -41,10 +41,11 @@ body {
   color: white;
 }
 
-.ui.menu .item {
+.ui.secondary.pointing.menu .item {
   color: white;
-  display: flex;
+  //display: flex;
   font-weight: bold;
+  height: 100%;
 }
 
 .ui.secondary.pointing.menu a.item:hover {
