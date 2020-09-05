@@ -36,16 +36,16 @@ body {
   background-color: #15317E;
 }
 
-//.ui.secondary.pointing.menu .active.item {
-//  color: white;
-//  font-weight: bold;
-//}
-
-.ui.secondary.pointing.menu .item {
+.ui.menu .active.item {
   color: white;
   font-weight: bold;
 }
 
-.ui.secondary.pointing.menu .item:hover {
+.ui.menu .item {
+  color: white;
+  font-weight: bold;
+}
+
+.ui.menu .item:hover {
   background-color: steelblue;
 }
