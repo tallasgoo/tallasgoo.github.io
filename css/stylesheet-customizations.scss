@@ -43,9 +43,11 @@ body {
 
 .ui.menu .item {
   color: white;
+  display: flex;
   font-weight: bold;
 }
 
-.ui.secondary.pointing.menu .item:hover {
+.ui.secondary.pointing.menu a.item:hover {
   background-color: steelblue;
+  color: white;
 }
