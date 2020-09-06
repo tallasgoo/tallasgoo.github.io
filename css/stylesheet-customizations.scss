@@ -50,7 +50,7 @@ body {
   padding-bottom: 8px;
 }
 
-.ui.secondary.pointing.menu a.item:hover, a.active.item:hover {
+.ui.secondary.pointing.menu a.item:hover {
   background-color: steelblue;
   color: white;
 }
@@ -61,5 +61,7 @@ body {
 }
 
 .ui.secondary.pointing.menu a.active.item:hover {
+  background-color: steelblue;
   border-color: white;
+  color: white;
 }
