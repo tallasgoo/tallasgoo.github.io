@@ -69,6 +69,11 @@ body {
   padding-bottom: -5px;
 }
 
-.ui.secondary.pointing.menu .a.item:hover {
+.ui.secondary.pointing.menu a.item:hover {
   background-color: steelblue;
+}
+
+.ui.secondary.pointing.menu .active.item {
+  border-color: white;
+  //color: white;
 }
