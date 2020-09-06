@@ -32,7 +32,7 @@ body {
   background-size: cover;
 }
 
-.ui.secondary.pointing.menu {
+/*.ui.secondary.pointing.menu {
   background-color: #15317E;
 }
 
@@ -59,4 +59,19 @@ body {
 .ui.secondary.pointing.menu .item:hover { // Removed a.
   background-color: steelblue;
   color: white;
+}*/
+
+.ui.menu {
+  background-color: #15317E;
+}
+
+.ui.menu .item {
+  border-bottom-width: 5px;
+  color: white;
+  line-height: 2;
+  margin-bottom: -5px;
+}
+
+.ui.menu .item:hover {
+  background-color: steelblue;
 }
