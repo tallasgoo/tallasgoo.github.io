@@ -45,16 +45,6 @@ body {
   margin-bottom: -5px;
 }
 
-.ui.secondary.pointing.menu .item:hover { // Removed a.
-  background-color: steelblue;
-  color: white;
-}
-
-.ui.secondary.pointing.menu .active.item {
-  border-color: white;
-  color: white;
-}
-
 .ui.secondary.pointing.menu .active.item:hover { // Removed a.
   background-color: steelblue;
   border-color: white;
@@ -71,9 +61,11 @@ body {
 
 .ui.secondary.pointing.menu a.item:hover {
   background-color: steelblue;
+  border-color: white;
+  color: white;
 }
 
 .ui.secondary.pointing.menu .active.item {
   border-color: white;
-  //color: white;
+  color: white;
 }
