@@ -41,7 +41,7 @@ body {
   color: white;
 }
 
-.ui.secondary.pointing.menu a.active.item:hover {
+.ui.secondary.pointing.menu .active.item:hover { // Removed a.
   background-color: steelblue;
   border-color: white;
   color: white;
@@ -54,7 +54,7 @@ body {
   height: 100%;
 }
 
-.ui.secondary.pointing.menu a.item:hover {
+.ui.secondary.pointing.menu .item:hover { // Removed a.
   background-color: steelblue;
   color: white;
 }
