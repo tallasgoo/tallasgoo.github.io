@@ -48,10 +48,12 @@ body {
 }
 
 .ui.secondary.pointing.menu .item {
+  border-bottom-width: 5px;
   color: white;
   display: flex;
   font-weight: bold;
   height: 100%;
+  margin-bottom: -5px;
 }
 
 .ui.secondary.pointing.menu .item:hover { // Removed a.
