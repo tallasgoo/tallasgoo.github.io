@@ -5,7 +5,7 @@ url: "https://tallasgoo.github.io"
 baseurl: ""
 
 # Theme
-bio-page-label: Resume
+bio-page-label: Résumé
 theme-home: theme-home-builtin-3.html
 theme-projects: theme-projects-builtin-1a.html
 theme-essays: theme-essays-builtin-2.html

@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "tallasgoo",
         "url": "http://linkedin.com/in/tallas-goo"
-      },
+      }
     ]
   },
   "interests": [
@@ -55,20 +55,22 @@
         "JavaScript",
         "HTML",
         "CSS",
-        "Computer-Aided Design (CAD)",
+        "Computer-Aided Design (CAD)"
       ]
     },
     {
       "name": "Toolsets/OSes",
       "level": "",
       "keywords": [
-        "Metasploit",
-        "Nmap",
-        "Wireshark",
+        "GitHub",
         "Google Suite",
-        "Microsoft Office",
+        "IntelliJ IDEA",
         "Kali Linux",
-        "Windows"
+        "Metasploit",
+        "Microsoft Office",
+        "Nmap",
+        "Windows",
+        "Wireshark"
       ]
     }
   ],
