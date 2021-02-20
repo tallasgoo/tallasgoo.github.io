@@ -1,4 +1,5 @@
 ---
+published: false
 layout: project
 type: project
 image: images/pikachu.jpg
