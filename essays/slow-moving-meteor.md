@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: "The Irony of the Slow Moving Meteor"
 date: 2017-10-19
 labels:

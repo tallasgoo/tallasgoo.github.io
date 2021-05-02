@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: "What is a Computer?"
 date: 2019-05-16
 labels:

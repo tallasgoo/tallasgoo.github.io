@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: "WYSIWY Should G"
 date: 2017-10-05
 labels:
