@@ -49,7 +49,6 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
         "JavaScript",
         "HTML",
@@ -61,13 +60,9 @@
       "name": "Toolsets/OSes",
       "level": "",
       "keywords": [
-        "GitHub",
-        "Google Suite",
         "IntelliJ IDEA",
         "Kali Linux",
         "Metasploit",
-        "Microsoft Office",
-        "Nmap",
         "Windows",
         "Wireshark"
       ]
