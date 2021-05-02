@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: "Hackers Know English Too"
 date: 2017-09-07
 labels:
