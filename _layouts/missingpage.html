@@ -4,7 +4,7 @@ layout: default
 
 {% include menubar.html active="" %}
 
-<div style="padding: 20px 20px 20px 20px; background: rgba(242,242,242, 0.5)" class="ui container ">
+<div style="padding: 30px 50px 50px 50px; background: rgba(242,242,242, 0.6)" class="ui container ">
   <h1>Sorry, that URL could not be found.</h1>
   <p>Perhaps you were looking for one of the following:</p>
 
@@ -16,7 +16,7 @@ layout: default
     {% endfor %}
   </ul>-->
 
-  <h3>Projects</h3>
+  <h3><a href="{{ site.baseurl }}/projects/">Projects</a></h3>
   <ul>
     {% assign project_pages = site.pages | where: "type", "project" | sort: "title" %}
     {% for page in project_pages %}
